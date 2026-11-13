@@ -9,14 +9,13 @@ The site is the lab's public home page, built from the lab description PDF. Exam
 
 ## Pages
 
-| Page | File | Content |
+| Page | File | From the PDF |
 | --- | --- | --- |
-| Home | `index.html` | Mission, why it matters, news |
-| Research | `research.html` | Focus areas, research areas, projects |
-| People | `people.html` | Director bio, members |
-| Get Involved | `get-involved.html` | Students, partners, impact on education |
-| Stay Safe Online | `stay-safe.html` | Plain-language scam, password and privacy tips |
-| Contact and Accessibility | `contact.html` | Email, location, accessibility statement |
+| Home | `index.html` | Mission, foundational work, why it matters |
+| Research | `research.html` | Core focus areas, research focus |
+| People | `people.html` | Lab director and members |
+| Get Involved | `get-involved.html` | Collaboration, potential impact on education |
+| Contact | `contact.html` | Location and email |
 
 Shared styles go in `css/style.css`, images in `images/`. Please don't edit another role's page without asking.
 
@@ -25,5 +24,3 @@ Shared styles go in `css/style.css`, images in `images/`. Please don't edit anot
 1. Accept the collaborator invite (check your email, or github.com/notifications).
 2. Make a branch for your page: `git checkout -b research-page`.
 3. Commit, push, and open a pull request into `main`. The site lead merges it.
-
-Every page must pass the checklist in the group plan before it counts as done: WAVE 0 errors, Lighthouse accessibility 95+, keyboard-only use, 4.5:1 contrast, alt text, works on a phone, no trackers or outside scripts.
