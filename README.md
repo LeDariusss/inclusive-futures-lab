@@ -25,6 +25,5 @@ Shared styles go in `css/style.css`, images in `images/`. Please don't edit anot
 1. Accept the collaborator invite (check your email, or github.com/notifications).
 2. Make a branch for your page: `git checkout -b research-page`.
 3. Commit, push, and open a pull request into `main`. The site lead merges it.
-4. Log any AI help in `AI-LOG.md`: tool, prompt, what it gave, what you changed.
 
 Every page must pass the checklist in the group plan before it counts as done: WAVE 0 errors, Lighthouse accessibility 95+, keyboard-only use, 4.5:1 contrast, alt text, works on a phone, no trackers or outside scripts.
