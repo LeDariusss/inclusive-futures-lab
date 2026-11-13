@@ -1,8 +1,8 @@
-# SecurityPlus AI Lab website
+# Inclusive Futures Lab website
 
 CYBR 201 final project, group CYBR201-GRP07. Due **December 2, 2026**.
 
-Live site: https://ledariusss.github.io/securityplus-ai-lab/
+Live site: https://ledariusss.github.io/inclusive-futures-lab/
 
 The site is the lab's public home page, built from the lab description PDF. Examples we are matching:
 [AI in Complex Systems Lab](https://ai-complex-systems-exkr78r.gamma.site/) and [CAFE Lab](https://sheikhrabiul.github.io/cafe/).
